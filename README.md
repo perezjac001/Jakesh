@@ -3,7 +3,8 @@ To Understand what I'm about to tell you, you need to do something first. You ne
 ## Computer Science 1
 [CS1 Course Description](https://perezjac001.github.io/Jakesh/description) | 
 [CS1 Syllabus](https://perezjac001.github.io/Jakesh/syllabus) | 
-[What is Computer Science?](https://perezjac001.github.io/Jakesh/whatiscompsci) | 
+[Define Computer Science](https://perezjac001.github.io/Jakesh/whatiscompsci) | 
 [People of Interest](https://perezjac001.github.io/Jakesh/peepofinterest)
 ## Digital Video & Audio
-No course description and the CS1 Syllabus applies to this class as well.
+[Define Video](https://perezjac001.github.io/Jakesh/definevideo) | 
+[People of Interest](https://perezjac001.github.io/Jakesh/peepofinterest)
