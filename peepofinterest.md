@@ -7,6 +7,8 @@ Ada Lovelace was a woman who invented a computer algorithim before computers eve
 Charles Babbage was the first person to invent the computer. In his time, computer was the job title of a human mathmatician. Being human, these "computers" made mistakes. Charles had the brilliant idea to make a machine that could calculate problems effortlessly. Unfortunately, this idea never became reality until a century later.
 #### Jospeh Marie Charles
 Jospeh Marie Charles (AKA Jacquard) was a french weaver and merchant. He is know for inventing the Jacquard Loom, a device that revolutionized technology. The Jacquard Loom was the first programmable loom, and it led to the creation of other programmable machines. In a way, this carved the path for the invention of computers.
+#### Herman Hollerith
+Herman Hollerith was a professor of mechanical engineering at MIT. He is most know for creating a machine that would read numbers punched into a card and decipher it into information. This was considered an advancement in cryptography, as it allowed information to be encrypted and stored efficiently for its time.
 
 ## Digital Video & Audio
 #### Eadweard Muybridge
