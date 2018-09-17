@@ -9,6 +9,8 @@ Charles Babbage was the first person to invent the computer. In his time, comput
 Jospeh Marie Charles (AKA Jacquard) was a french weaver and merchant. He is know for inventing the Jacquard Loom, a device that revolutionized technology. The Jacquard Loom was the first programmable loom, and it led to the creation of other programmable machines. In a way, this carved the path for the invention of computers.
 #### Herman Hollerith
 Herman Hollerith was a professor of mechanical engineering at MIT. He is most know for creating a machine that would read numbers punched into a card and decipher it into information. This was considered an advancement in cryptography, as it allowed information to be encrypted and stored efficiently for its time.
+#### John Backus
+John Backus was a student at the University of Virginia. He was not a great student, and he ended up dropping out and joining the army. He served int World War 2. He then became the director of the team that developed the first high-level programming language, FORTRAN. This led to even more advanced programming languages to be developed in the future.
 
 ## Digital Video & Audio
 #### Eadweard Muybridge
