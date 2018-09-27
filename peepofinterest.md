@@ -13,6 +13,8 @@ Herman Hollerith was a professor of mechanical engineering at MIT. He is most kn
 John Backus was a student at the University of Virginia. He was not a great student, and he ended up dropping out and joining the army. He served in World War 2. He then became the director of the team that developed the first high-level programming language, FORTRAN. This led to even more advanced programming languages to be developed in the future.
 #### Margaret Hamilton
 Margaret Hamilton was the Director of the Software Engineering Division of the MIT Instrumentation Laboratory, who created on-board flight software for the Apollo space program. She coined the term "software engineering", as computer scientists were not viewed as engineers. Margaret earned software engineering the respect it deserved, and opened up the STEM field for other women as well.
+#### Gottfried Wilhelm Leibniz
+Gottfried Wilhelm was a german philosopher and mathmatician who invented the first mass-produced mechanical calculator.
 
 ## Digital Video & Audio
 #### Eadweard Muybridge
