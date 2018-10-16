@@ -14,7 +14,11 @@ John Backus was a student at the University of Virginia. He was not a great stud
 #### Margaret Hamilton
 Margaret Hamilton was the Director of the Software Engineering Division of the MIT Instrumentation Laboratory, who created on-board flight software for the Apollo space program. She coined the term "software engineering", as computer scientists were not viewed as engineers. Margaret earned software engineering the respect it deserved, and opened up the STEM field for other women as well.
 #### Gottfried Wilhelm Leibniz
-Gottfried Wilhelm was a german philosopher and mathmatician who invented the first mass-produced mechanical calculator.
+Gottfried Wilhelm was a german philosopher and mathmatician who invented the first mass-produced mechanical calculator. He was also the inventor of the binary system, which was necessary for the creation of todays computers. In 1671, he began work on a machine that could perform all 4 arithmetic operation. This led to his election in the Royal Society.
+#### Polybius
+Polybius was a Greek historian who documented 264–146 BC. He invented a 5 by 5 square with characters called the Polybius square. This was used to send signals to far off people with fire. They would use torches to give 2 numbers that would correspond with a character on the square.
+#### Mary, Queen of Scots
+Mary was the rightful heir to the throne in 1586. She was being held prisoner by her powerful cousin, and she had to communicate with her supporters using a cipher. She played a part in the Babington plot, which was a plan to assassinate Queen Elizabeth I, and they communicated with encrypted messages.
 
 ## Digital Video & Audio
 #### Eadweard Muybridge
