@@ -29,3 +29,11 @@ Ken Burns is a film maker who is extremely well known for his documentaries. He 
 Werner Herzog is one of the most influential film makers of his time. He has made multiple pieces, each one usually focusing on an ambitious protagonist or people with talent in an obscure field. He is most well known for beginning the West German cinema movement, and has won multiple awards for his work.
 #### Micheal Apted
 Micheal Apted is the most important documentary film maker to date. He is most well known for his Up Series, as well as several other films that he was involved in. On June 29th, 2003, he was elected president of the Directors Guild of America. Many of his films recieved multiple awards, and were very well recieved by the public.
+#### Alex Gibney
+Alex Gibney is an American documentary film maker and producer. He has worked on many different films, and some consider him to be one of the most important film makers of his time. He attended Yale University, where he recieved his bachelors degree.
+#### James Benning
+James Benning is an American 
+#### Les Blank
+Les Blank
+#### Elizabeth Lo
+Elizabeth Lo
