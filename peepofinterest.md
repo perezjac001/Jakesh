@@ -32,8 +32,8 @@ Micheal Apted is the most important documentary film maker to date. He is most w
 #### Alex Gibney
 Alex Gibney is an American documentary film maker and producer. He has worked on many different films, and some consider him to be one of the most important film makers of his time. He attended Yale University, where he recieved his bachelors degree.
 #### James Benning
-James Benning is an American 
+James Benning is an American independent film maker known for his long un-cut shots. His most notable work is "One Way Boogie Woogie" which was released in the 70's. Before he became an independent film maker, he taught film at multiple universities.
 #### Les Blank
-Les Blank
+Les Blank was an American film maker who was best known for his portraits of American traditional musicians. He founded his own production company Flower Films in 1967. His work wasn't focused on the music itself, but on the cultural context of the music. In 2007 Blank was awarded the prestigious Edward MacDowell Medal in the Arts.
 #### Elizabeth Lo
-Elizabeth Lo
+Elizabeth Lo is a Chinese-American film maker who was born in Hong Kong. She attended Stanford, and her films have been featured on television around the world. She has won multiple awards for her work.
