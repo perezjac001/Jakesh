@@ -12,6 +12,6 @@ Email: [perezjac001@gmail.com](perezjac001@gmail.com)
 [Define Video](https://perezjac001.github.io/Jakesh/definevideo) | 
 [People of Interest](https://perezjac001.github.io/Jakesh/peepofinterest)
 #### Digital Art & Animation
-
+[Portfolio](https://perezjac001.github.io/Jakesh/artani)
 
 
